@@ -1,12 +1,8 @@
 **Songs**
  - "どうしようもない僕に天使が降りてきた" by 槇原敬之
  - "Broken" by LovelyTheBand
- - "Plastic Love" by 竹内まりや
- - "Say Yes"  by CHAGE and ASKA
  - "Scientist" by Coldplay
- - "冬がはじまるよ" by 槇原敬之
- - "北風 ～君にとどきますように～" by 槇原敬之
- - "Rockabye" by Clean Bandit
- - "歌うたいのバラッド" by 斉藤和義
  - "今宵の月のように" by エレファントカシマシ
- - "美しく燃える森" by 東京スカパラダイスオーケストラ
+ - "主題歌" by MOROHA
+
+The last one is pretty special (at least for me).
