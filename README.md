@@ -1,9 +1,8 @@
 # SongsILike
-My favorite songs
+This repo contains a list of my favorite songs.
 
+I just wanted to share them.
 
-I just wanted to share my favorite songs. 
-
-Some of them are really old.
+Some of them are quite old.
 
 [Songs](https://github.com/bichanna/SongsILike/blob/master/songs.md)
